@@ -31,6 +31,8 @@ const values = [
   {
     name: "durability",
     icon: durability,
+
+    
   },
   {
     name: "Client-oriented",
